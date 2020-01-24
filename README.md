@@ -1,4 +1,4 @@
-# Pre-work - *TipApp*
+# Pre-work - *TippApp*
 
 **TippApp** is a tip calculator application for iOS.
 
@@ -33,11 +33,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+
+Working and getting familiar with the MacOS and the Xcode environment
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2020 Brian Robinson
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
